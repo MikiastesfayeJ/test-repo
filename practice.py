@@ -21,7 +21,5 @@ def equate(eq):
             print(result / op1)
         elif op == '/':
             print(result * op1)     
-
-
 a = 3
 print(a = 5)  
